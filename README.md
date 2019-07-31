@@ -13,6 +13,7 @@ In the above plot, the red solid line shows the serving rate at different hours 
 ![Image](Q2.gif)
 
 ### Answer:
+The above heatmap shows the spatial distribution of non-served trip requests across different hours of the day. From the map, it can be clearly observed that the epicentres of the unfilled requests shifts throughout the day. During the morning hours, the number of unfulfilled request is high in lower Manhattan, during the day and evening time it shifts to midtown, and again during the night it shifts back to lower Manhattan. The map is helpful in understanding the spatio-temporal distribution of the unserved requests. 
 
 ### Q5: What can we learn about the vehicle utilization? Are most of them empty, or with 1, 2, 3 or 4 passengers? Are there particular vehicles that tend to ride with more passengers than others? If so, how are they distributed in space and time.
 
