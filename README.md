@@ -6,7 +6,7 @@
 ![Image](Q1.png)
 
 ### Answer:
-In the above plot, the red solid line shows the serving rate at different hours of the day, and the blue dashed line shows the average/overall serving rate. From this plot it is clearly observable from 5AM to 12PM and 3PM to 10PM, the serving rate is higher than the average. 
+In the above plot, the red solid line shows the serving rate at different hours of the day, and the blue dashed line shows the average/overall serving rate. From this plot it is clearly observable, from 5AM to 12PM and 3PM to 10PM, the serving rate is higher than the average. These hours of the day corresponds to the Rush/Office hours, and using this plot it can be concluded that the serving rate is high during these times.
 
 ### Q2: For those trips that could not be served, do they follow a spatial or temporal pattern? For example, are most of those trips originated in particular regions, and of certain times?
 
