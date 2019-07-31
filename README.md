@@ -17,7 +17,10 @@ The above heatmap shows the spatial distribution of non-served trip requests acr
 
 ### Q5: What can we learn about the vehicle utilization? Are most of them empty, or with 1, 2, 3 or 4 passengers? Are there particular vehicles that tend to ride with more passengers than others? If so, how are they distributed in space and time.
 
+### Answer:
 ![Image](Q51.png)
+
+The above plot shows the stacked bar chart for percentage vehicle time it is occupied by different number of passengers. The plot contains bars for all the vehicles present in the dataset and is aranged to present information neatly. The blue line shows the mean of % time vehicles are occupied with 4 passenger. The plot clearly reflects that the distribution of high number of passengers(4) is homogenous across vehicles. For most of the vehicles the % time occupied by 4 passengers is close to the mean, and overall there is a very small standard deviation. However, There are certain vehicles which are mostly occupied by less number of passengers. To better understand the spatial temporal distribution of these cabs we plot the next map which is shown below. 
+
 ![Image](Q5.gif)
 
-### Answer:
