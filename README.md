@@ -15,6 +15,7 @@
 
 ### Q5: What can we learn about the vehicle utilization? Are most of them empty, or with 1, 2, 3 or 4 passengers? Are there particular vehicles that tend to ride with more passengers than others? If so, how are they distributed in space and time.
 
+![Image](Q51.png)
 ![Image](Q5.gif)
 
 ### Answer:
